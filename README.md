@@ -1,5 +1,5 @@
 # udacity-frontend-work
-Taking Udacity Front page as desing inspiration and converting this into code using bootsrap and custom styles.
+Taking Udacity Front page as design inspiration and converting this design into code using bootsrap and custom styles.
 
 <a href="https://abhishekraj007.github.io/apps/udacity/">Demo</a>
 
