@@ -1,4 +1,4 @@
-# udacity-frontend-work
+# Udacity Front Page
 Taking Udacity Front page as design inspiration and converting this design into code.
 
 <a href="https://abhishekraj007.github.io/apps/udacity/">Demo</a>
