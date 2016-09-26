@@ -15,19 +15,19 @@ var gulp = require("gulp"),
 // Compile
 gulp.task('style', function(){
     gulp.src('scss/*.scss')
-        .pipe(sass({outputStyle: 'expanded'}))
-        .pipe(plumber())
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions']}))
-        .pipe(gulp.dest('css/'));
+            .pipe(plumber())
+            .pipe(sass({outputStyle: 'expanded'}))
+            .pipe(autoprefixer({
+                browsers: ['last 2 versions']}))
+            .pipe(gulp.dest('css/'));
 });
 
 // Task image
 // compress
 gulp.task('image', function(){
     gulp.src('img/*')
-        .pipe(imagemin())
-        .pipe(gulp.dest('images'));
+            .pipe(imagemin())
+            .pipe(gulp.dest('images'));
 });
 
 // Task Reload
