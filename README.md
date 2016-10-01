@@ -5,4 +5,4 @@ Taking Udacity Front page as design inspiration and converting this design into 
 
 
 <h2>Note </h2>
-All the content and design is the property of Udacity. I don't claim to hold any of the content. I have used the content just for placeholder and design as an inspiration to practice my front-end development skill. 
+ALL of the contents and design used during practice session is the property of udacity. I don't claim to hold any of the contents/resources. I have used the contents just for the placeholder and design as an inspiration to practice my front-end development skill.
